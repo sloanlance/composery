@@ -2,11 +2,10 @@
 A Composer wrapper to read its configuration from a YAML file, composer.yml.
 
 ---
-> > > _⚠️&nbsp;&nbsp;**Note:**  
-> > > &nbsp;&nbsp;&nbsp;&nbsp;This package is still in the very early stages of development.  
-> > > &nbsp;&nbsp;&nbsp;&nbsp;Don't be disappointed by its lack of substance._
+> > > ## ⚠️&nbsp;&nbsp;Note:  
+> > > &nbsp;&nbsp;&nbsp;&nbsp;_This package is still in the very early stages of development._  
+> > > &nbsp;&nbsp;&nbsp;&nbsp;_Don't be disappointed by its lack of substance._  
 ---
-
 
 ## Why‽
 * Comments can't be added to composer.json because JSON doesn't allow comments.
