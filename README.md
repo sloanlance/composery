@@ -1,5 +1,5 @@
 # Composery
-A wrapper for Composer to read its configuration from a YAML file, composer.yml
+A wrapper for Composer to read its configuration from a YAML file, composer.yml.
 
 ## Why‽
 * Comments can't be added to composer.json because JSON doesn't allow comments.
