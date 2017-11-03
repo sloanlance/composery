@@ -1,0 +1,7 @@
+{
+    "name": "sloanlance/composery",
+    "description": "Composery: A Composer wrapper to read its configuration from a YAML file, composer.yml.",
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    }
+}
