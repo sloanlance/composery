@@ -1,6 +1,10 @@
 # Composery
 A Composer wrapper to read its configuration from a YAML file, composer.yml.
 
+---
+> > > _⚠️ **Note:** This package is still in the very early stages of development.  Don't be disappointed by its lack of substance._
+---
+
 ## Why‽
 * Comments can't be added to composer.json because JSON doesn't allow comments.
 * YAML allows comments.
