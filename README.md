@@ -6,7 +6,7 @@ A wrapper for Composer to read its configuration from a YAML file, composer.yml.
 * YAML allows comments.
 * Bidirectional conversion between YAML and JSON is easy and reliable.  (Except for the loss of YAML comments.)
 * If loss of fidelity between between YAML and JSON is a concern, fret not.  YAML can contain JSON and _still_ allow comments.
-* The [igorw/composer-yaml](https://github.com/igorw/composer-yaml) project good, but it only converts composer.yml to composer.json.  It doesn't run composer using the new composer.json file, though.
+* The [igorw/composer-yaml](https://github.com/igorw/composer-yaml) project good, but it only converts composer.yml to composer.json.  It doesn't run Composer using the new composer.json file, though.
 * In contrast, Composery will:
   * Convert composer.yml to composer.json.
   * Run composer using the new composer.json.
